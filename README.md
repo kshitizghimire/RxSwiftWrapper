@@ -1,3 +1,3 @@
 # RxSwiftWrapper
 
-A description of this package.
+A source code RxSwift wrapper
